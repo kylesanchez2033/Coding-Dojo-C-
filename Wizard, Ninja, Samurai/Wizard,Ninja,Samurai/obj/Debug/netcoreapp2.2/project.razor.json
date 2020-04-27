@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\kyles\\OneDrive\\Desktop\\Coding Dojo\\C#\\Wizard, Ninja, Samurai\\Wizard, Ninja, Samurai\\portfolio.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "portfolio",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

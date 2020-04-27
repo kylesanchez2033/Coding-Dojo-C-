@@ -1,0 +1,14 @@
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.deps.json
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.runtimeconfig.json
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.runtimeconfig.dev.json
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.dll
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\bin\Debug\netcoreapp2.2\portfolio.pdb
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.csprojAssemblyReference.cache
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.csproj.CoreCompileInputs.cache
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.RazorAssemblyInfo.cache
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.RazorAssemblyInfo.cs
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.AssemblyInfoInputs.cache
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.AssemblyInfo.cs
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.RazorTargetAssemblyInfo.cache
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.dll
+C:\Users\kyles\OneDrive\Desktop\Coding Dojo\C#\Portfolio\portfolio\obj\Debug\netcoreapp2.2\portfolio.pdb
